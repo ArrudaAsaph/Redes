@@ -1,0 +1,17 @@
+Linhas de Comunicação -> Enlace
+
+-> Meios físicos que ligam dois computadores
+
+
+Linhas de Comunicação ditam
+ - Padrão de codificação de dados
+ - A Forma de modulação dos dados
+ - O modo de transmissão dos dados
+
+
+* 3 modos de transmissão de dados:
+	- Modo simplex -> so um caminho, ou seja, so uma pessoa envia dados
+	- Modo Half-duplex -> dois caminhos, mas so um dado é enviado por vez
+	- Modo full-duplex -> Dois caminhos, dados enviados ao mesmo tempo
+
+
